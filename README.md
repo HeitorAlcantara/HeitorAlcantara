@@ -2,7 +2,7 @@
 # Me chamo Heitor, bem-vindo ao meu perfil! :smiley:
 
 
-Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estagio na área de desenvolvimento, utilizando PHP e JavaScript. Apaixonado por tecnologia e pelo mercado financeiro, procuro todos os dias aprender um pouco mais de ambas, para que, no futuro, eu possa unir os meus conhecimentos e aplicar na sociedade. Gosto de ler livros e acompanhar as notícias do dia a dia, o google e o stackoverflow são os melhores ajudantes nessa vida de "meia hora procurando o ; perdido" :joy:
+Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estagio na área de desenvolvimento, utilizando PHP e JavaScript. Apaixonado por tecnologia e pelo mercado financeiro, procuro todos os dias aprender um pouco mais de ambas, para que, no futuro, eu possa unir os meus conhecimentos e aplicar na sociedade. Gosto de ler livros e acompanhar as notícias do dia a dia, o google e o stackoverflow são os melhores ajudantes nessa vida de "meia hora procurando o erro, para descobrir que era um ';' perdido" :joy:
 
 # Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
@@ -20,7 +20,7 @@ Espero que possamos programar juntos, nos ajudar nesse imenso universo da progra
 
 # How to reach me:
 <div>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:heitor.magalc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/Heitor Magalhães de Alcântara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/_alcntara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
