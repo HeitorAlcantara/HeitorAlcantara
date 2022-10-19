@@ -25,6 +25,8 @@ Espero que possamos programar juntos, nos ajudar nesse imenso universo da progra
 <a href="https://instagram.com/_alcntara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<hr>
+
 <div>
 <a href="https://github.com/HeitorAlcantara">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAlcantara&layout=compact&langs_count=7&theme=dracula"/>
