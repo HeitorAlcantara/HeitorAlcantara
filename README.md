@@ -16,7 +16,7 @@ Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas e, atual
 <hr>
 
 O desenvolvimento web tornou-se meu favorito nesse mundo de desenvolvimento, porém, tenho grande vontade de aprender mobile e conhecer diversas outras tecnologias como cybersecurity, IA e IOT. <br><br>
-Espero que possamos programar juntos, nos ajudar nesse imenso universo da programação :joy: e criar diversas tecnologias!
+Espero que possamos programar juntos, nos ajudar nesse imenso universo da programação e criar diversas tecnologias! :grin:
 
 # How to reach me:
 <div>
