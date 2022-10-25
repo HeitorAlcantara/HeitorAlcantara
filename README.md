@@ -29,5 +29,5 @@ Espero que possamos programar juntos, nos ajudar nesse imenso universo da progra
 
 <div>
 <a href="https://github.com/HeitorAlcantara">
-<center><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAlcantara&layout=compact&langs_count=7&theme=dracula"/></center>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAlcantara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
