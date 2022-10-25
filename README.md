@@ -4,7 +4,7 @@
 
 Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estagio na área de desenvolvimento, utilizando PHP e JavaScript. Apaixonado por tecnologia e pelo mercado financeiro, procuro todos os dias aprender um pouco mais de ambas, para que, no futuro, eu possa unir os meus conhecimentos e aplicar na sociedade. Gosto de ler livros e acompanhar as notícias do dia a dia, o google e o stackoverflow são os melhores ajudantes nessa vida de "meia hora procurando o erro, para descobrir que era um ';' perdido" :joy:
 
-# Tecnologias e Ferramentas:
+# Conhecimento:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 
 # Aprendendo e se especializando:
