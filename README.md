@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Me chamo Heitor, bem-vindo ao meu perfil! :smiley:
+# My name's Heitor, welcome to my profile! :smiley:
 
 
 Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estagio na área de desenvolvimento, utilizando PHP e JavaScript. Apaixonado por tecnologia e pelo mercado financeiro, procuro todos os dias aprender um pouco mais de ambas, para que, no futuro, eu possa unir os meus conhecimentos e aplicar na sociedade. Gosto de ler livros e acompanhar as notícias do dia a dia, o google e o stackoverflow são os melhores ajudantes nessa vida de "meia hora procurando o erro, para descobrir que era um ';' perdido" :joy:
